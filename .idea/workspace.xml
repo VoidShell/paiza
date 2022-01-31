@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4034b12f-28fe-4673-bfe2-a5e75680e37b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bTxfagiE75Zsu1TLBJ4tFpD5di" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager" selected="Application.C039">
+    <configuration name="C015" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.C015" />
+      <module name="paiza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C020" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.C020" />
+      <module name="paiza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C021" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.C021" />
+      <module name="paiza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C039" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.C039" />
+      <module name="paiza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="C.C071" />
+      <module name="paiza" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="C.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.C039" />
+        <item itemvalue="Application.C021" />
+        <item itemvalue="Application.C020" />
+        <item itemvalue="Application.C071" />
+        <item itemvalue="Application.C015" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4034b12f-28fe-4673-bfe2-a5e75680e37b" name="Default Changelist" comment="" />
+      <created>1588669988092</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588669988092</updated>
+      <workItem from="1588669991334" duration="36098000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="522" y="0" key="#Project_Structure" timestamp="1588670001285">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="522" y="0" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1588670001285" />
+    <state x="695" y="72" key="FileChooserDialogImpl" timestamp="1588716007631">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="695" y="72" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1588716007631" />
+    <state width="974" height="196" key="GridCell.Tab.0.bottom" timestamp="1588716014768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="196" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1588716014768" />
+    <state width="974" height="196" key="GridCell.Tab.0.center" timestamp="1588716014768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="196" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1588716014768" />
+    <state width="974" height="196" key="GridCell.Tab.0.left" timestamp="1588716014768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="196" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1588716014768" />
+    <state width="974" height="196" key="GridCell.Tab.0.right" timestamp="1588716014768">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="974" height="196" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1588716014768" />
+  </component>
+</project>
